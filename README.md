@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PraveenRajPurak
-- 👀 I’m interested in chess,astronomy,aircrafts,graphic designing and lot other things.
-- 🌱 I’m currently learning C++ and blender.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me - Bro I am useless.
+- 👀 I’m interested in Coding,chess,astronomy,aircrafts,graphic designing and lot other things.
+- 🌱 I love doing projects in react native and react. I am also a video editing enthusiast.
+- 💞️ I’m looking to collaborate on react native projects.
 
 <!---
 PraveenRajPurak/PraveenRajPurak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
