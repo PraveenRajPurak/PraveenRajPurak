@@ -1,23 +1,23 @@
 - 👋 Hi, I’m @PraveenRajPurak
 - I'm a passionate learner with a diverse skill set in web and app development.
-- Here's a snapshot of my skills and interests: 
--🌐 Frontend
+- Here's a snapshot of my skills and interests.
+- 🌐 Frontend
 - Languages: HTML, CSS, JavaScript
 - Frameworks/Libraries: React, React Native
 - Tools: WordPress (Elementor, Elementor Pro, WooCommerce)
--📱 App Development
+- 📱 App Development
 - Specialization: React Native
--🛠️ Backend
+- 🛠️ Backend
 - Databases: MongoDB, SQL
 - Tools: Firebase (authentication and data storage)
 - Current Focus: Learning backend development
--🔄 DSA
+- 🔄 DSA
 - Status: Revising Data Structures & Algorithms
--🎬 Multimedia
+- 🎬 Multimedia
 - Video Editing: Adobe After Effects
--🎮 Hobbies
+- 🎮 Hobbies
 - Games: Chess, GTA
--🎯 Goals
+- 🎯 Goals
 - Seeking: Internships in React Native development
 <!---
 PraveenRajPurak/PraveenRajPurak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
