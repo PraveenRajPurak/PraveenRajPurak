@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PraveenRajPurak
-- 'm a passionate learner with a diverse skill set in web and app development.
+- I'm a passionate learner with a diverse skill set in web and app development.
 - Here's a snapshot of my skills and interests: 
 🌐 Frontend
 - Languages: HTML, CSS, JavaScript
