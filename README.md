@@ -9,7 +9,7 @@
 - Specialization: React Native
 - 🛠️ Backend
 - Databases: MongoDB, SQL
-- Tools: Firebase (authentication and data storage)
+- Tools: Node.js with express, Firebase (authentication and data storage)
 - Current Focus: Learning backend development
 - 🔄 DSA
 - Status: Revising Data Structures & Algorithms
@@ -18,7 +18,7 @@
 - 🎮 Hobbies
 - Games: Chess, GTA
 - 🎯 Goals
-- Seeking: Internships in React Native development
+- Seeking: Internships in software development 
 <!---
 PraveenRajPurak/PraveenRajPurak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
