@@ -3,14 +3,14 @@
 - Here's a snapshot of my skills and interests.
 - 🌐 Frontend
 - Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries: React, React Native
+- Frameworks/Libraries: React, React Native, Svelte and SvelteKit
 - Tools: WordPress (Elementor, Elementor Pro, WooCommerce)
 - Current Focus: enhancing React frontend skills
 - 📱 App Development
 - Specialization: React Native
 - 🛠️ Backend
 - Databases: MongoDB, SQL
-- Tools: Node.js with express, Firebase (authentication and data storage)
+- Tools: Go with Gin, Node.js with express, Firebase (authentication and data storage)
 - Current Focus: Building more full stack development projects to enhance backend development skills
 - 🔄 DSA
 - Status: Revising Data Structures & Algorithms
